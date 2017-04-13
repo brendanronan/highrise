@@ -22,7 +22,7 @@ Gem::Specification.new do |s|
   s.summary       = "Ruby wrapper around Highrise API"
   s.description   = <<-EOT
     Based on the original API module from DHH, http://developer.37signals.com/highrise/, this
-    gem is a cleaned up, tested version of the same. 
+    gem is a cleaned up, tested version of the same.
 
     Configure by adding the following:
 
