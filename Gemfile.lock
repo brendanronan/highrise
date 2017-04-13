@@ -2,7 +2,7 @@ PATH
   remote: .
   specs:
     highrise (3.2.3)
-      activeresource (>= 3.2.13)
+      activeresource (>= 4.1)
 
 GEM
   remote: https://rubygems.org/
